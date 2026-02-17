@@ -1,0 +1,11 @@
+This is a template
+
+Keep in mind, this folder is not always required, but is commonly present
+
+You include:
+    - list of currently known problems
+    - list of wanted features
+    - instructions to submit a pull request
+    - project information (funding, sponsors, company info, etc)
+    - release notes (the changes made in a release program, EX: 1.4 terraria and 1.3 terraria)
+    - github repository information (includes passwords/private info not for github)

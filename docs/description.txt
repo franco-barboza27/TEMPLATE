@@ -1,0 +1,5 @@
+Docs folder holds all DATA your program uses:
+    - CSV
+    - TXT
+    - JSON
+    - images
